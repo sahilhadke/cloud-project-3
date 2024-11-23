@@ -1,0 +1,6 @@
+boto3==1.26.137
+opencv-python-headless==4.7.0.72
+pillow==9.5.0
+imutils==0.5.4
+facenet-pytorch==2.5.3
+numpy==1.24.3
